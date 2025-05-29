@@ -15,7 +15,7 @@ public class Week_4 {
         while (!(input = scanner.nextLine()).equalsIgnoreCase("exit")) {
             writer.println(input);
         }
-
+            // comments
         writer.close();
         scanner.close();
         System.out.println("Done writing to the file!");
